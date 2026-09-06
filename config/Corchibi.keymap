@@ -84,7 +84,7 @@
 
         default_layer {
             bindings = <
-&kp EXCLAMATION  &kp TAB  &kp LEFT_SHIFT  &kp LEFT_CONTROL  &kp A  &kp Z  &kp LGUI  &kp W  &kp X  &kp LALT  &kp E  &kp D  &kp R  &kp F  &kp V  &lt 5 BACKSPACE  &kp G  &kp B  &kp DELETE  &lt 1 BSPC  &kp Q  &kp S  &kp C  &kp T  &kp SPACE  &kp MINUS  &kp TILDE  &mt QMARK LS(INTERNATIONAL_1)  &kp RIGHT  &mt LBKT MINUS  &kp UP  &kp DOWN  &kp O  &mt COLON PERIOD  &kp LEFT  &lt 5 I  &kp K  &kp U  &kp J  &kp M  &TB1_mouse  &kp H  &kp N  &kp BACKSPACE  &lt 2 LANG5  &kp P  &kp L  &mt SEMICOLON COMMA  &kp Y  &lt 2 ENTER
+&kp EXCLAMATION  &kp TAB  &kp LEFT_SHIFT  &kp LEFT_CONTROL  &kp A  &kp Z  &kp LGUI  &kp W  &kp X  &kp LALT  &kp E  &kp D  &kp R  &kp F  &kp V  &lt 5 BACKSPACE  &kp G  &kp B  &kp DELETE  &lt 1 BSPC  &kp Q  &kp S  &kp C  &kp T  &kp SPACE  &kp MINUS  &kp TILDE  &mt QMARK LS(INTERNATIONAL_1)  &kp RIGHT  &mt LBKT MINUS  &kp UP  &kp DOWN  &kp O  &mt COLON PERIOD  &kp LEFT  &lt 5 I  &kp K  &kp U  &kp J  &kp M  &TB1_mouse  &kp H  &kp N  &kp BACKSPACE  &kp LANG_ZENKAKUHANKAKU  &kp P  &kp L  &mt SEMICOLON COMMA  &kp Y  &lt 2 ENTER
             >;
         };
 
