@@ -20,7 +20,7 @@ layers:
   - G
   - B
   - DELETE
-  - {t: BSPC, h: '1'}
+  - {t: INT MUHENKAN, h: '1'}
   - Q
   - S
   - C
@@ -45,7 +45,7 @@ layers:
   - H
   - N
   - BACKSPACE
-  - LANG ZENKAKUHANKAKU
+  - INT HENKAN
   - P
   - L
   - {t: ',', h: ;}
