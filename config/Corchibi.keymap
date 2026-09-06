@@ -90,7 +90,7 @@
 
         layer_1 {
             bindings = <
-&kp ESC  &trans  &macro_Tab  &trans  &kp F6  &trans  &trans  &kp F2  &trans  &trans  &kp F3  &kp F8  &kp F4  &kp F9  &kp LESS_THAN  &trans  &kp F10  &kp GREATER_THAN  &trans  &trans  &kp F1  &kp F7  &trans  &kp F5  &trans  &kp NUMBER_9  &kp NUMBER_6  &kp NUMBER_3  &kp PERIOD  &kp NUMBER_5  &kp NUMBER_2  &kp COMMA  &kp NUMBER_7  &kp NUMBER_1  &kp NUMBER_0  &kp RIGHT_PARENTHESIS  &kp ASTERISK  &kp LEFT_PARENTHESIS  &kp PLUS  &kp MINUS  &TB1_mouse  &kp SQT  &kp AMPERSAND  &trans  &kp EQUAL  &kp NUMBER_8  &kp NUMBER_4  &kp SLASH  &kp DOUBLE_QUOTES  &trans
+&kp ESC  &trans  &macro_Tab  &trans  &kp F6  &kp LC(Z)  &trans  &kp F2  &kp LC(X)  &trans  &kp F3  &kp F8  &kp F4  &kp LESS_THAN  &kp LC(V)  &trans  &kp GREATER_THAN  &kp LC(LS(DOWN_ARROW))  &trans  &kp LC(LS(UP_ARROW))  &kp F1  &kp F7  &kp LC(C)  &kp F5  &trans  &kp NUMBER_9  &kp NUMBER_6  &kp NUMBER_3  &kp PERIOD  &kp NUMBER_5  &kp NUMBER_2  &kp COMMA  &kp NUMBER_7  &kp NUMBER_1  &kp NUMBER_0  &kp RIGHT_PARENTHESIS  &kp ASTERISK  &kp LEFT_PARENTHESIS  &kp PLUS  &kp MINUS  &TB1_mouse  &kp SQT  &kp AMPERSAND  &trans  &kp EQUAL  &kp NUMBER_8  &kp NUMBER_4  &kp SLASH  &kp DOUBLE_QUOTES  &trans
             >;
         };
 
