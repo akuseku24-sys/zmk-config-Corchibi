@@ -57,24 +57,24 @@ layers:
   - '&macro_Tab'
   - {t: ▽, type: trans}
   - F6
-  - {t: ▽, type: trans}
+  - Ctl+Z
   - {t: ▽, type: trans}
   - F2
-  - {t: ▽, type: trans}
+  - Ctl+X
   - {t: ▽, type: trans}
   - F3
   - F8
   - F4
-  - F9
   - <
+  - Ctl+V
   - {t: ▽, type: trans}
-  - F10
   - '>'
+  - Ctl+Sft+DOWN ARROW
   - {t: ▽, type: trans}
-  - {type: held}
+  - {t: Ctl+Sft+UP ARROW, type: held}
   - F1
   - F7
-  - {t: ▽, type: trans}
+  - Ctl+C
   - F5
   - {t: ▽, type: trans}
   - '9'
