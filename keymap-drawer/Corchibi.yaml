@@ -1,10 +1,10 @@
 layout: {zmk_keyboard: Corchibi}
 layers:
   default:
-  - '`'
-  - LCTRL
+  - '!'
+  - TAB
   - LEFT SHIFT
-  - {t: C, h: '2'}
+  - LEFT CONTROL
   - A
   - Z
   - LGUI
@@ -19,15 +19,15 @@ layers:
   - {t: BACKSPACE, h: '5'}
   - G
   - B
-  - '&mkp MB2'
+  - DELETE
   - {t: BSPC, h: '1'}
   - Q
   - S
   - C
   - T
-  - '&mkp MB1'
-  - BSPC
-  - RET
+  - SPACE
+  - '-'
+  - '~'
   - {t: Sft+INTERNATIONAL 1, h: '?'}
   - RIGHT
   - {t: '-', h: '['}
@@ -44,13 +44,13 @@ layers:
   - {t: $$trackball_19mm$$, h: Mouse}
   - H
   - N
-  - {t: '`', h: '1'}
-  - B
+  - {t: BACKSPACE, h: '1'}
+  - {t: LANG5, h: '2'}
   - P
   - L
   - {t: ',', h: ;}
   - Y
-  - {t: SPACE, h: '2'}
+  - {t: ENTER, h: '2'}
   '1':
   - ESC
   - {t: ▽, type: trans}
@@ -106,7 +106,7 @@ layers:
   - {t: ▽, type: trans}
   - LEFT CONTROL
   - Sft+Gui+LEFT ARROW
-  - {type: held}
+  - {t: ▽, type: trans}
   - '1'
   - F11
   - {t: ▽, type: trans}
@@ -147,7 +147,7 @@ layers:
   - F6
   - {t: ▽, type: trans}
   - Sft+Gui+S
-  - {t: ▽, type: trans}
+  - {type: held}
   - '|'
   - F9
   - {t: ▽, type: trans}
