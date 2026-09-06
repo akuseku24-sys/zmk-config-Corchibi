@@ -44,7 +44,7 @@ layers:
   - {t: $$trackball_19mm$$, h: Mouse}
   - H
   - N
-  - {t: BACKSPACE, h: '1'}
+  - BACKSPACE
   - {t: LANG5, h: '2'}
   - P
   - L
