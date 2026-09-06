@@ -45,7 +45,7 @@ layers:
   - H
   - N
   - BACKSPACE
-  - {t: LANG5, h: '2'}
+  - LANG ZENKAKUHANKAKU
   - P
   - L
   - {t: ',', h: ;}
@@ -147,12 +147,12 @@ layers:
   - F6
   - {t: ▽, type: trans}
   - Sft+Gui+S
-  - {type: held}
+  - {t: ▽, type: trans}
   - '|'
   - F9
   - {t: ▽, type: trans}
   - ''''
-  - {t: ▽, type: trans}
+  - {type: held}
   '3':
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
