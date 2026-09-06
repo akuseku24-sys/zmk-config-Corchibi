@@ -36,7 +36,7 @@ layers:
   - O
   - {t: ., h: ':'}
   - LEFT
-  - {t: I, h: '5'}
+  - {t: I, h: '3'}
   - K
   - U
   - J
@@ -189,7 +189,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - {type: held}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
